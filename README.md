@@ -1,0 +1,1 @@
+Code for the blog post about creating an OBS plugin with .NET NativeAOT

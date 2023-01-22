@@ -39,7 +39,7 @@ public static class ObsPlugin
         var asciiBytes = Encoding.UTF8.GetBytes(text);
         fixed (byte* logMessagePtr = asciiBytes)
         {
-            ObsUtilBase.blogva(ObsUtilBase.LOG_INFO, (sbyte*) logMessagePtr, null);   
+            ObsBase.blogva(ObsBase.LOG_INFO, (sbyte*) logMessagePtr, null);   
         }
     }
 }

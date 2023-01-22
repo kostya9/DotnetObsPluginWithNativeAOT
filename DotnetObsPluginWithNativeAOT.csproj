@@ -9,7 +9,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="NetObsBindings" Version="0.0.1.17-alpha" />
+      <PackageReference Include="NetObsBindings" Version="0.0.1.22-alpha" />
     </ItemGroup>
 
 </Project>
